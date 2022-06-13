@@ -1,0 +1,186 @@
+  
+  /* first-task */
+
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.header-list{
+  display: flex;
+  justify-content: space-between;
+  width: 422px;
+  list-style: none;
+}
+.header_list_link{
+  color: #555248;
+  text-decoration: none;
+}
+
+.header-list-2{
+  display: flex;
+  justify-content: space-between;
+  width: 99px;
+  list-style: none;
+}
+
+  /* second-task */
+
+.hero{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-header{
+  font-size: 20px;
+}
+
+.hero-header-span{
+  display: flex;
+  background: #444240;
+  width: 205px;
+  height: 64px;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-header-link{
+  text-decoration: none;
+  color: #fff;
+}
+
+.hero-img{
+  text-align: center;
+}
+
+.hero-list-sup-b{
+  display: flex;
+  justify-content: start;
+  font-size: 30px;
+}
+
+.hero-list-sub-p{
+  display: flex;
+  justify-content: end;
+  font-size: 30px;
+}
+
+  /* tird-task */
+
+.info{
+  text-align: center;
+}
+
+.info-link{
+  display: flex;
+  justify-content: end;
+}
+
+.info-list{
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
+.info-list-sup-b{
+  display: flex;
+  justify-content: start;
+}
+
+.hr{
+  display: inline-block;
+  width: 50px;
+  height: 1px;
+  background-color: gray;
+}
+
+  /* fourth-task */
+
+.quality{
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-evenly;
+  font-size: 20px;
+}
+
+.quality-span{
+  display: flex;
+  background: #D4B098;
+  width: 205px;
+  height: 64px;
+  align-items: center;
+  justify-content: center;
+}
+
+.quality-link{
+  text-decoration: none;
+  color: #fff;
+}
+  /* fifth-task */
+.news{
+  display: flex;
+  justify-content: space-around;
+}
+
+.news-text{
+  font-size: 25px;
+}
+
+.news-text-link{
+  text-decoration: none;
+  color: black;
+}
+
+.social-networks{
+  display: flex;
+  list-style: none;
+  margin-top: 100px;
+}
+
+.news-imgs{
+  display: flex;
+}
+
+.news-two-imgs{
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+}
+
+  /* sixth-task */
+
+  .data{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #444240;
+    color: #fff;
+    font-size: 18px;
+  }
+
+  .data-profile-img{
+    color: #fff;
+  }
+
+  .data-profile{
+    text-decoration: none;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    line-height: 25px;
+  }
+
+  .data-list{
+    list-style: none;
+  }
+
+  .data-list-titles{
+    color: #fff;
+    line-height: 40px;
+  }
+  
+  .data-list-item{
+    color: #fff;
+    line-height: 25px;
+  }
